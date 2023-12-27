@@ -1,2 +1,2 @@
 # ProjectOfReact
-It is a React Project
+It is a React Project.
